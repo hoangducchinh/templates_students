@@ -17,7 +17,7 @@ Báo cáo thực tập kĩ thuật không quá 15 trang, báo cáo thực tập 
 
 Chương 1 và 2 ngắn gọn (2-4 trang)
 Nội dung cần tập trung vào chương 3 và 4
-Hướng dẫn nội dung chi tiết trong file [hust_bao_cao_thuc_tap_huong_dan](https://github.com/hoangducchinh/templates_students/blob/master/hust_bao_cao_thuc_tap_huong_dan.docx)
+Hướng dẫn nội dung chi tiết trong file [hust_bao_cao_thuc_tap_huong_dan.docx](https://github.com/hoangducchinh/templates_students/blob/master/hust_bao_cao_thuc_tap_huong_dan.docx)
 
 ## Báo cáo đồ án (to be done)
 Báo cáo đồ án chuyên ngành, đồ án 1 & 2, đồ án tốt nghiệp
@@ -27,3 +27,4 @@ Tùy theo yêu cầu cụ thể của từng môn
 
 ## Slides
 Generic slides
+* [hust_powerpoint_template.pptx](https://github.com/hoangducchinh/templates_students/blob/master/hust_powerpoint_template.pptx)
